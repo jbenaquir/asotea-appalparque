@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Acondicionamiento",
+      "description": "Rutinas nivel fácil orientadas a aquellos que están empezando",
+      "color": "blue",
+      "label": "Easy - Yellow Monkey",
+      "image": "OrangutanEasy.png"
+    },
+    {
+      "id": 2,
+      "name": "Guerreros",
+      "description": "",
+      "color": "yellow",
+      "label": "Easy - Yellow Monkey",
+      "image": "JBonoboWarriors.png"
+    },
+    {
+      "id": 3,
+      "name": "Avanzado",
+      "description": "Rutinas nivel Avanzado",
+      "color": "red",
+      "label": "Advanced - Strong Monkey",
+      "image": "GorillaHArd.png"
+    }
+  ]

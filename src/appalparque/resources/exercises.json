@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1,
+    "name": "Sentadillas",
+    "description": "Instrucciones: 1. Para empezar los pies deben estar separados el uno del otro de acuerdo al ancho de tus hombros, manteniendo tu espalda recta, el abdomen contraído y sin balancearse. 2. Este ejercicio debe emular la acción de sentarse en una silla, el movimiento no debe ser hacia abajo sino hacia atrás, empezando con la pelvis y no con las rodillas, el cual es un error común. Tus manos pueden ir al frente tuyo totalmente extendidas o en tu nuca. 3. Durante la ejecución del ejercicio las rodillas nunca deben sobrepasar la punta de los pies, la profundidad se mide en un promedio aproximado de lograr 120º. Se recomienda que el ritmo sea con una velocidad media o lenta. 4.Vuelve a la posición inicial.",
+    "machineId": null,
+    "image": "1.gif"
+  },
+  {
+    "id": 3,
+    "name": "Zancadas",
+    "description": "Instrucciones: 1. Párate en un terreno plano con tu cuerpo totalmente recto. Una de las piernas debe dar un paso hacia adelante con el objetivo que la pierna logre un ángulo de 90º, manteniendo tu espalda recta y sin balancearse. 2. El pie que avance debe quedarse totalmente apoyado en el suelo mientras que la otra pierna se irá doblando hasta casi tocar el suelo con la rodilla, pero sin llegar ha hacerlo. 3. La pierna que se quede atrás volverá a la posición inicial y continuará esta repetición. Es importante tener en cuenta que el ejercicio es completo cuando se realiza la acción alternando las piernas.",
+    "machineId": null,
+    "image": "3.gif"
+  },
+  {
+    "id": 4,
+    "name": "Burpees",
+    "description": "Instrucciones: 1. Ubica un terreno plano  en el parque. 2. Con tu cuerpo totalmente recto, agachate y apoya las manos en el suelo  de tal manera que quede en igualdad con el ancho de tus hombros y  las piernas entre  los brazos. 3. Impulsa los pies hacia atrás para  quedar en posición de plancha.4. Haz una flexión de brazos, con tu espalda totalmente recta hasta tocar el suelo.5. Recoge tus pies con el objetivo de volver a la posición descrita en el paso número 2. 6. Realiza un salto, con los brazos extendidos al cielo y aterriza amortiguando con tus piernas.",
+    "machineId": null,
+    "image": "4.gif"
+  },
+  {
+    "id": 5,
+    "name": "Sentadilla de Sumo con Elevación de Talón",
+    "description": "Instrucciones: 1. Separa los pies al doble de la anchura de tus hombros, todo el peso debe recaer en la planta de tus pies. 2. La punta de tus pies debe ir orientada a 45º hacia el frente, recuerda que tus piernas deben ir abiertas. 3. Flexiona tus rodillas  hasta formar un ángulo de 90º, debes sentir que tus glúteos juegan un gran rol en este ejercicio. 3. Levanta primero el talón izquierdo manteniendo el resto del pie anclado al suelo, luego baja tu talón y haz lo mismo con el pie derecho. Haz estas repeticiones según indique tu rutina. ",
+    "machineId": null,
+    "image": "5.gif"
+  },
+  {
+    "id": 6,
+    "name": "Sentadilla con Oblicuo",
+    "description": "Instrucciones: 1. Los pies deben estar separados el uno del otro de acuerdo al ancho de tus hombros, manteniendo tu espalda recta, el abdomen contraído  y sin balancearse.   2. Este ejercicio debe emular la acción de sentarse en una silla, el movimiento no debe ser hacia abajo sino hacia atrás, empezando con la pelvis y no con las rodillas, el cual es un error común. Tus manos pueden ir al frente tuyo totalmente extendidas o en tu nuca. 3. Durante la ejecución del ejercicio las rodillas nunca deben sobrepasar la punta de los pies, la profundidad se mide en un promedio aproximado de lograr 120º. Se recomienda que el ritmo sea con una velocidad media o lenta. 4. Vuelve a la posición inicial. 5. Saca hacia el lado izquierdo tu pierna izquierda y levanta tu rodilla en esa posición, de tal manera que toque el codo  izquierdo, baja tu pierna izquierda y realiza el mismo movimiento con tu pierna derecha. Debes sentir la presión del ejercicio en  tu abdomen. Vuelve al paso  número 1.",
+    "machineId": null,
+    "image": "6.gif"
+  },
+  {
+    "id": 7,
+    "name": "Sentadilla Búlgara",
+    "description": "Instrucciones: 1. Debes buscar una superficie como una banca o un andén alto. 2. Sobre esta superficie debes colocar un pie de tal manera que todo el resto del cuerpo quede abajo de la superficie apoyado por el otro pie. 3.  Debes flexionar ambas rodillas hasta que la pierna apoyada en la superficie casi que toque el suelo, deje que el peso de su cuerpo vaya adelante, lentamente. Ejecuta una zancada con el tronco erguido y lleva poco a poco el cuerpo hacia atrás estirando la pierna derecha y realizando con esta la zancada inversa. Vuelve a la posición  número 1. 4. Haz el mismo ejercicio intercambiando la pierna.",
+    "machineId": null,
+    "image": "7.gif"
+  },
+  {
+    "id": 9,
+    "name": "Sentadilla Lateral",
+    "description": "Instrucciones:  1. Primero coloca el cuerpo totalmente recto, los pies separados, la cadera libre y los brazos erguidos hacia al frente. 2.  Dobla una de las piernas mientras la otra está estirada, inclina la espalda levemente hacia al frente, de tal manera que los glúteos se desplacen hacia atrás. Doblamos la rodilla al tiempo que realizamos una sentadilla. 3. Vuelve a la posición inicial del paso  número 1 e inicia  el ejercicio con el lado contrario. ",
+    "machineId": null,
+    "image": "9.gif"
+  },
+  {
+    "id": 10,
+    "name": "Zancadas con Salto",
+    "description": "Instrucciones: 1. Párate en un terreno plano con tu cuerpo totalmente recto. Una de las piernas debe dar un paso hacia adelante con el objetivo que la pierna logre un ángulo de 90º, manteniendo tu espalda recta  y sin balancearse.2. El pie que avance debe quedarse totalmente apoyado en el suelo mientras que la otra pierna se irá doblando hasta tocar casi el suelo con la rodilla, pero sin hacerlo. 3. La pierna que se quede atrás volverá a la posición inicial y continuará esta repetición mediado por un salto. Es importante tener en cuenta que el ejercicio es completo cuando realiza la acción de ambos lados.",
+    "machineId": null,
+    "image": "10.gif"
+  },
+  {
+    "id": 11,
+    "name": "Cohete",
+    "description": "Instrucciones: 1. Colócate frente a una superficie, banca u otra elevación estable del parque, apoya una de las piernas en la superficie generando una flexión de 90 grados de cadera y rodilla. 2. Debes impulsarte desde esta posición haciendo un movimiento que simula subir un escalón alto. El movimiento acabará con las piernas completamente estiradas. Recuerda que debes mantener tu espalda totalmente erguida. El ejercicio es completo cuando alternas las piernas.",
+    "machineId": null,
+    "image": "11.gif"
+  },
+  {
+    "id": 12,
+    "name": "Burrolls",
+    "description": "Instrucciones: 1. Encuentra una superficie plana en el parque.  Párate con la espalda recta, tírate al suelo boca arriba en dos tiempos: primero siéntate y segundo estira el cuerpo hasta quedar recostado con la espalda sobre el suelo y los brazos estirados por encima de la cabeza.  2. Luego recoge tu cuerpo hasta quedar en cuclillas. Párate y realiza un salto  con los brazos hacia arriba  y vuelve a realizar el paso número uno.",
+    "machineId": null,
+    "image": "12.gif"
+  },
+  {
+    "id": 14,
+    "name": "Zancada - Caminata",
+    "description": "Instrucciones: 1. Párate en un terreno plano con tu cuerpo totalmente recto. Una de las piernas debe dar un paso hacia adelante con el objetivo que dicha pierna logre un ángulo de 90º, manteniendo tu espalda recta  y sin balancearse.  2. El pie que avance debe quedarse totalmente apoyado en el suelo, mientras que la otra pierna se irá doblando hasta tocar casi el suelo con la rodilla, pero sin hacerlo.3. La pierna que se quede atrás avanzará un paso adelante de tal manera que quedes en la misma posición de zancada, repite este ejercicio simulando que caminas con estos pasos exagerados.",
+    "machineId": null,
+    "image": "14.gif"
+  },
+  {
+    "id": 16,
+    "name": "Salto Caja",
+    "description": "Instrucciones: 1. Colócate frente a una superficie medianamente alta. 2. Salta con las dos piernas hasta alcanzar la parte superior de la superficie. 3. Salta hacia atrás y aterriza con las dos piernas, amortiguando con la flexión de tus rodillas.",
+    "machineId": null,
+    "image": "16.gif"
+  },
+  {
+    "id": 18,
+    "name": "Patada Trasera con equilibrio",
+    "description": "Instrucciones: 1. Ponte de pie en una superficie plana. 2. Flexiona el tronco hacia delante apoyado en una sola pierna, mientras llevas la otra pierna la llevas hacia atrás, intenta que tus brazos estén sueltos y úsalos para mantener el equilibrio durante el ejercicio.",
+    "machineId": null,
+    "image": "18.gif"
+  },
+  {
+    "id": 19,
+    "name": "Levantamiento de Caderas o Hip Drive",
+    "description": "Instrucciones:1. Siéntate sobre tus rodillas, de tal manera que  tus glúteos toquen tus talones. 2.  Tensiona los glúteos para levantarlos hasta llegar a la posición normal de  “arrodillado”. 3. Baja lentamente, con los glúteos tensos hasta la posición inicial.",
+    "machineId": null,
+    "image": "19.gif"
+  },
+  {
+    "id": 20,
+    "name": "Bottoms-Up o Zancadas desde el Fondo",
+    "description": "Instrucciones: 1. Siéntate sobre tus rodillas, de tal manera que  tus glúteos toquen tus talones. 2.  Tensiona los glúteos para levantarlos hasta llegar a la posición normal de  “arrodillado” con una sola pierna, de tal manera que harás la presión con tus glúteos y tus piernas para levantarse. 3. Con la otra pierna estirada hacia atrás, empiezas a levantarse suavemente; en este punto quedas en la posición de zancada, luego  para encontrar el trabajo en el glúteo, lleva la rodilla que está atrás hacia tu pecho. Vuelve la posición inicial. Para que este trabajo sea completo debes hacerlo con ambas piernas",
+    "machineId": null,
+    "image": "20.gif"
+  },
+  {
+    "id": 21,
+    "name": "Hip Thrust sobre las Manos",
+    "description": "Instrucciones: 1. Busca un  terreno plano en el parque. 2. Siéntate en el suelo con tus piernas abiertas a la anchura de tus hombros.  Tus brazos deben quedar estirados y los dedos deben apuntar hacia afuera. 3. Con ayuda de tus glúteos sube las caderas para quedar en forma de mesa. 4. La idea es  mantenerse en esta posición durante unos 5 segundos, o más de acuerdo a tus capacidades físicas. Lo importante es mantener la presión de tus  glúteos durante el ejercicio.",
+    "machineId": null,
+    "image": "21.gif"
+  },
+  {
+    "id": 22,
+    "name": "Hip Thrust (sobre la espalda)",
+    "description": "Instrucciones:  1. Acuéstate boca arriba con las rodillas flexionadas y los pies abiertos  a la anchura de  tus hombros.2. Con ayuda de tus glúteos levanta tu cadera  del suelo  hasta al máximo que puedas, tensionando los glúteos y manteniendo tu abdomen rígido.3.  La idea es  mantenerse en esta posición durante unos 5 segundos o más de acuerdo a tus capacidades físicas.",
+    "machineId": null,
+    "image": "22.gif"
+  },
+  {
+    "id": 23,
+    "name": "Abdominales con piernas elevadas sobre suelo",
+    "description": "Instrucciones: 1. Busca una terreno plano en el parque, donde no te vayas a lastimar la espalda. 2. Acuéstate boca arriba  y coloca tu piernas erguidas. 3. Empieza a subir tus piernas  de tal manera que tu cuerpo forme un ángulo de 90º o de 45º, dependiendo de tu capacidad física. Luego vuelve a bajarlas pero sin que lleguen a tocar el piso.",
+    "machineId": null,
+    "image": "23.gif"
+  },
+  {
+    "id": 24,
+    "name": "Sentadilla Pistol con Silla",
+    "description": "Instrucciones: 1. Debes buscar una banca o superficie estable  en el parque. 2. A continuación, siéntate en el borde de esta superficie estable  con tu espalda recta y con mirada al frente. 3. Estira una de tus piernas mientras la otra  forma un ángulo de 90º, esta última será el apoyo del ejercicio. Usando la fuerza de tus glúteos ponte de pie sólamente usando el pie apoyado. Debes quedar totalmente de pie, mientras la otra pierna está estirada y en ningún momento puede tocar el suelo. La manera más exigente de este ejercicio es manteniendo la pierna estirada frente a ti. Pero puedes ir regulando la altura de acuerdo a tu capacidad física.",
+    "machineId": null,
+    "image": "24.gif"
+  },
+  {
+    "id": 26,
+    "name": "Hip Thrust con Una Pierna",
+    "description": "Instrucciones: 1. Busca un terreno plano en el parque.2. Acuéstate boca arriba, las piernas abiertas a la anchura de tus hombros. 3. Usa tus dos manos para presionar la rodilla izquierda sobre tu pecho.4. Con ayuda de la fuerza de tu glúteo izquierdo eleva tu cadera lo más que puedas, siempre manteniendo la presión en tu glúteo izquierdo.5. Repite el ejercicio de acuerdo al número de repeticiones y cambia el ejercicio al glúteo derecho repitiendo las mismas instrucciones.",
+    "machineId": null,
+    "image": "26.gif"
+  },
+  {
+    "id": 28,
+    "name": "Sentadilla con Salto en Silla",
+    "description": "Instrucciones:  1. Busca una banca en el parque. 2. Siéntate en  la banca del parque , pon tu espalda erguida y ubica tus pies al ancho de las caderas. 3. Con la fuerza de tus glúteos salta, levantando los dos pies. Aterriza suavemente y siéntate lentamente, mientras todo el peso es amortiguado por tus piernas y no olvides mantener el equilibrio.",
+    "machineId": null,
+    "image": "28.gif"
+  },
+  {
+    "id": 29,
+    "name": "Hip Thrust con Marcha",
+    "description": "Instrucciones:1. Busca un  terreno plano en el parque. 2. Siéntate en el suelo con tus piernas abiertas a la anchura de tus hombros. 3. Ahora, levanta tu pie izquierdo  hasta lograr un ángulo de 45º y endereza la pierna. Intenta mantener la posición de las caderas,  apóyate con la fuerza de tus glúteos. 4.  Baja tu pie izquierdo y sube inmediatamente el derecho en la misma posición. Repite el ejercicio manteniendo la fuerza en tus caderas lo más arriba posible y con presión en los glúteos.",
+    "machineId": null,
+    "image": "29.gif"
+  },
+  {
+    "id": 31,
+    "name": "Sentadilla Pistol Asistida",
+    "description": "Instrucciones:1. Busca un respaldo de una banca o un apoyo vertical estable.2. Agarra el soporte (barra o apoyo estable)  con tu mano izquierda y estira  tu pierna izquierda mientras la otra pierna forma un ángulo de 90º, esta última será el apoyo del ejercicio. 3. Usando la fuerza de tus glúteos ponte de pie sólamente usando el pie apoyado. Debes quedar totalmente de pie, mientras la otra pierna está estirada y en ningún momento puede tocar el suelo. Luego vuelve a la posición descrita en el paso número 2. 4. La manera más exigente de este ejercicio es manteniendo la pierna estirada frente a ti. Pero puedes ir regulando la altura de acuerdo a tu capacidad física.",
+    "machineId": null,
+    "image": "31.gif"
+  },
+  {
+    "id": 33,
+    "name": "Salto Explosivo (Power Skip)",
+    "description": "Instrucciones:1. Párate en un terreno plano con tu cuerpo totalmente recto. Una de las piernas debe dar un paso hacia atrás  con el objetivo que la otra pierna logre un ángulo de 90º cuando bajes, manteniendo tu espalda recta  y sin balancearse.  2. El pie que esté adelante debe quedarse totalmente apoyado en el suelo mientras que la otra pierna se irá doblando hasta tocar casi el suelo con la rodilla, pero sin hacerlo. 4. Realiza un salto  y aterriza sobre el pie con el que estás apoyando el ejercicio, vuelve a la posición inicial. Para que este ejercicio sea efectivo debes hacerlo con ambos lados.",
+    "machineId": null,
+    "image": "33.gif"
+  },
+  {
+    "id": 35,
+    "name": "Correr",
+    "description": "Instrucciones: Comienza con un trote suave y aumenta la velocidad de acuerdo a tu capacidad física y de resistencia. Puedes hacerlo en en el entorno de la cancha de microfútbol o por el sendero peatonal del parque. ",
+    "machineId": null,
+    "image": "35.gif"
+  },
+  {
+    "id": 36,
+    "name": "Hip Thrust a una Mano",
+    "description": "Instrucciones: 1. Busca un  terreno plano en el parque.2. Siéntate en el suelo con tus piernas abiertas a la anchura de tus hombros.  Tus brazos deben quedar estirados y los dedos deben apuntar hacia afuera. 3. Con ayuda de tus glúteos sube las caderas para quedar en forma de mesa. 4. A continuación,  coloca todo el peso en tu brazo derecho, mientras levantas el brazo izquierdo hacia el cielo. Vuelve a la posición inicial. Luego intentalo con tu brazo izquierdo como soporte y tu brazo derecho elevado,, recuerda que en este ejercicio debes mantener la presión en tus glúteos.",
+    "machineId": null,
+    "image": "36.gif"
+  },
+  {
+    "id": 37,
+    "name": "Rotación de brazos",
+    "description": "Instrucciones: 1. Ponte de pie con la espalda recta.2. Gira a la izquierda y la derecha tus brazos lentamente y de manera controlada.",
+    "machineId": null,
+    "image": "37.gif"
+  },
+  {
+    "id": 38,
+    "name": "Fila Vertical",
+    "description": "Instrucciones:  1. Párate  con su cuerpo totalmente recto.2 . Levanta tus brazos lo más alto posible con tus codos doblados. 3. Mantén esa posición  por 3 segundos. Libere sus brazos atrás hacia la posición de inicio con los codos doblados.",
+    "machineId": null,
+    "image": "38.gif"
+  },
+  {
+    "id": 39,
+    "name": "Abdominales con Piernas elevadas en Torre",
+    "description": "Instrucciones: 1. Párate sobre los soportes de pies, coloca tu espalda recta y apoyada en el respaldo de la torre. 2. Agarra los manillares con tus dos manos.3. Con el apoyo de tus codos y con el soporte de tus brazos, levanta las piernas hasta formar un ángulo de 90º con tu tronco. 4. Baja tus piernas suavemente hasta la posición expresada en el paso número 1.",
+    "machineId": 1,
+    "image": "39.gif"
+  },
+  {
+    "id": 40,
+    "name": "Inclinación del tronco en combinación de giros",
+    "description": "Instrucciones:  1. Separa las piernas a la anchura de tus hombros, el tronco debe formar un ángulo de 90º. 2. La mano izquierda la enviamos hacia los pies, mientras la mano derecha  va levanta hacia el cielo; luego intercambiamos las manos. De tal manera que el ejercicio sea completo.",
+    "machineId": null,
+    "image": "40.gif"
+  },
+  {
+    "id": 41,
+    "name": "Inclinación del tronco",
+    "description": "Instrucciones:  1. Separa las piernas a la anchura de tus hombros; el tronco debe formar un ángulo de 90º.2. Ambas manos las envías hacia el pie derecho luego las envías hacia el lado izquierdo y vuelves a quedar de pie. Es importante tener la espalda recta.",
+    "machineId": null,
+    "image": "41.gif"
+  },
+  {
+    "id": 42,
+    "name": "Rotación de Cadera",
+    "description": "Instrucciones: 1. Con las manos en la cadera, las piernas abiertas a la anchura de tus hombros  y con la espalda totalmente recta da un giro extenso con tus caderas hacia el lado derecho y luego cambia el lado.",
+    "machineId": null,
+    "image": "42.gif"
+  },
+  {
+    "id": 43,
+    "name": "Estiramiento de Tríceps",
+    "description": "Instrucciones: 1. Párate con la espalda recta, los pies separados a la anchura de tus hombros. 2. Levanta al cielo tu brazo derecho y coloca tu palma de la mano  tocando la columna, un poco más abajo de la nuca. 3. Con tu mano izquierda toma el codo de tu brazo derecho y haz una pequeña presión. Mantén este estiramiento por mínimo unos 30 segundos y cambia de lado.",
+    "machineId": null,
+    "image": "43.gif"
+  },
+  {
+    "id": 44,
+    "name": "Rotación de Muñecas",
+    "description": "Instrucciones:1. Ponte de pie con la espalda recta. 2. Gira a la izquierda y a la derecha tus muñecas lentamente y de manera controlada.",
+    "machineId": null,
+    "image": "44.gif"
+  },
+  {
+    "id": 45,
+    "name": "Rotación de Antebrazos",
+    "description": "Instrucciones: 1. Ponte de pie con la espalda recta.2. Gira a la izquierda y la derecha tus muñecas lentamente y de manera controlada.",
+    "machineId": null,
+    "image": "45.gif"
+  },
+  {
+    "id": 46,
+    "name": "Abdominales en Banco Inclinado- Oblicuos en Base",
+    "description": "Instrucciones: 1.  Introduce las piernas dentro de los soportes de la máquina como lo muestra la imagen. Sujetate del agarre frontal, apoya los codos y la espalda antes de realizar  cualquier acción para estabilizar el cuerpo.  2. Para realizar el ejercicio, sitúa las manos  debajo de la nuca. 3. Desde esta posición,  flexiona el tronco ,elevando  ligeramente los hombros y la cabeza del banco (simula acercar tus costillas hasta tu cadera).  No se recomienda realizar este ejercicio para personas con hernias  u operaciones en la zona central del cuerpo.",
+    "machineId": 7,
+    "image": "46.gif"
+  },
+  {
+    "id": 47,
+    "name": "Press Banco Cerrado en Torre",
+    "description": "Instrucciones: 1. Lo primero es  regular el peso en libras que será ejercido durante la acción a realizar de acuerdo a tus capacidades físicas y de progreso. 2. Recuéstate sobre el banco de tal manera que tu cabeza quede bajo los agarres. 3.  Agarra los manillares rodeandolos con tu pulgar. Tus pies debes dejarlos caer del banco y tus glúteos los debes dejar siempre en el banco.  4. Debes apretar la espalda y los omoplatos antes de iniciar el ejercicio. Mantén tu pecho firme en todo momento, evitando que los hombros se vayan hacia atrás y por ningún motivo dobles tus muñecas.  5. Empuja en línea recta hacia arriba sobre tu pecho y no sobre  tu cara. Mantén las barras sobre los codos durante todo el levantamiento. 6. Suavemente lleva a la posición inicial los manillares y repite el ejercicio, manteniendo siempre el pecho firme. Fuente: Grecoromana.co.",
+    "machineId": 1,
+    "image": "47.gif"
+  },
+  {
+    "id": 48,
+    "name": "Bicicleta estática",
+    "description": "Instrucciones: 1. Busque sentarse de forma segura en el asiento del equipo. 2. Sujetese del agarre ubicados al lado del asiento.  Suba el pie izquierdo en el pedal  o soporte del pie. Luego repita la misma acción para el pie derecho en su respectivo soporte. Este equipo reduce el impacto en las rodillas, debido a su diseño. Procure tener siempre la espalda recta e inicie con movimientos cortos y suaves, luego puede aumentar por número de 20 a 40 pedaleos en un tiempo determinado. Este cálculo puede variar de acuerdo su progreso o capacidad física. Fuente: Grecoromana.co",
+    "machineId": 4,
+    "image": "48.gif"
+  },
+  {
+    "id": 49,
+    "name": "Eliptica/ Sky",
+    "description": "Instrucciones: 1. Sujétense  de los agarres antes de subirse a la máquina.   2. Suba el pie  izquierdo en el estribo  o soporte del pie,  luego repita la misma acción para el pie derecho en su respectivo  soporte. 3.  Procure tener siempre  el cuerpo  recto e inicie  con movimientos  cortos y suaves, los movimientos deben ser coordinados y alternados con las rodillas semiflexionadas.4. Mantenga  el cuerpo recto, empuje  el pie derecho hacia el frente y el brazo  derecho se desplazará  hacia atrás. Cuando se empuje  el pie izquierdo atrás el brazo derecho se moverá hacia el frente y así sucesivamente. 5. Aumente el ritmo o velocidad de acción de acuerdo  a sus capacidades física.  Fuente: Grecoromana.co. ",
+    "machineId": 2,
+    "image": "49.gif"
+  },
+  {
+    "id": 50,
+    "name": "Dominadas Pronas",
+    "description": "Instrucciones: 1.Agarra con ambas manos la posición de  indicada en la barra superior rodeando tu pulgar en el manillar y coloca tus pies en los soportes. 2. Empieza colgando tu cuerpo en la barra con los brazos totalmente estirados. 3. Con tu cuerpo recto, ayúdate de tus hombros, pecho y espalda para elevar tu cuerpo en posición paralela al suelo y perpendicular a la posición de tus brazos 4. Vuelve a la posición inicial y realiza otra repetición.",
+    "machineId": 1,
+    "image": "50.gif"
+  },
+  {
+    "id": 51,
+    "name": "Dominadas Neutras",
+    "description": "Instrucciones: 1.Agarra con ambas manos la posición de  indicada en la barra superior rodeando tu pulgar en el manillar y coloca tus pies en los soportes. 2. Empieza colgando tu cuerpo en la barra con los brazos totalmente estirados. 3. Con tu cuerpo recto, ayúdate de tus hombros, pecho y espalda para elevar tu cuerpo en posición paralela al suelo y perpendicular a la posición de tus brazos. 4. Vuelve a la posición inicial y realiza otra repetición.  El ejercicio depende más de la correcta realización y constancia en días, que de la cantidad mal ejecutada. Fuente: grecoromana.co",
+    "machineId": 1,
+    "image": "51.gif"
+  },
+  {
+    "id": 53,
+    "name": "Zancadas en Torre",
+    "description": "Instrucciones: 1.Lo primero es  regular el peso  que será ejercido durante la acción a realizar de acuerdo a tus capacidades físicas y a tu progreso.2. Toma los manillares con ambas manos rodeando el pulgar en los agarres, alguna de las piernas debe dar un paso hacia adelante con el objetivo que la pierna logre un ángulo de 90º, manteniendo tu espalda recta  y sin balancearse. 3. El pie que avance debe quedarse totalmente apoyado en el suelo mientras que la otra pierna se irá doblando hasta tocar casi el suelo con la rodilla, pero sin hacerlo.4. La pierna que se quede atrás volverá a la posición inicial y continuará esta repetición. Es importante tener en cuenta que el ejercicio es completo cuando realiza la acción de ambos lados.",
+    "machineId": 1,
+    "image": "53.gif"
+  },
+  {
+    "id": 54,
+    "name": "Sentadilla en Torre",
+    "description": "Instrucciones: 1. Lo primero es  regular el peso que será ejercido durante la acción a realizar de acuerdo a tus capacidades físicas y  a tu progreso. 2. Toma los manillares con ambas manos rodeando el pulgar en los agarres, los pies deben estar separados el uno del otro de acuerdo al ancho de tus hombros, manteniendo tu espalda recta, el abdomen contraído  y sin balancearse.3. Este ejercicio debe emular la acción de sentarse en una silla, el movimiento no debe ser hacia abajo sino hacia atrás, empezando con la pelvis y no con las rodillas, el cual es un error común. 4. Durante la ejecución del ejercicio las rodillas nunca deben sobrepasar la punta de los pies, la profundidad se mide en un promedio aproximado de lograr 120º. Se recomienda que el ritmo sea con una velocidad media o lenta.",
+    "machineId": 1,
+    "image": "54.gif"
+  },
+  {
+    "id": 55,
+    "name": "Encogimiento y rotación de los hombros en Torre",
+    "description": "Instrucciones: 1. Lo primero es  regular el peso  que será ejercido durante la acción a realizar de acuerdo a tus capacidades físicas y a tu  de progreso. 2. Toma los manillares con ambas manos rodeando el pulgar en los agarres y mantente de pie, con el cuerpo totalmente recto. Los pies deben estar separados el uno del otro a la distancia del ancho de tus hombros y los brazos totalmente estirados, está será la posición inicial. 3. Con ayuda de tus hombros y de los trapecios, realiza la contracción hacia arriba aguantando unos tres segundos y bajando de manera controlada. 4. Realiza esta repetición de acuerdo a la rutina.",
+    "machineId": 1,
+    "image": "55.gif"
+  },
+  {
+    "id": 56,
+    "name": "Trapecio en Máquina",
+    "description": "Instrucciones: 1. Lo primero es  regular el peso que será ejercido durante la acción a realizar de acuerdo a tus capacidades físicas y  a tu de progreso. 2. Toma los manillares con ambas manos rodeando el pulgar en los agarres y mantente de pie, con el cuerpo totalmente recto. Los pies deben estar separados el uno del otro a la distancia del ancho de tus hombros y los brazos estirados. 3. Con ayuda de tus hombros y de los trapecios, realiza la contracción hacia arriba aguantando unos tres segundos y bajando de manera controlada. 4. Realiza esta repetición de acuerdo a la rutina.",
+    "machineId": 1,
+    "image": "56.gif"
+  },
+  {
+    "id": 57,
+    "name": "Flexiones de Pecho Sobre Base",
+    "description": "Instrucciones: 1. Tome los agarres transversales con ambas manos, de tal manera que sus pulgares rodeen el manillar.2. Con cuidado suba sus pies en la otra base ubicada al respaldo suyo. 3. Con los codos cerrados, evite curvar la espalda y el cuello debe permanecer recto.4.  Los movimientos deben realizarse de forma continua a una velocidad regulada y evitando una caída libre del cuerpo al descender. 5. La presión del ejercicio la debe sentir en sus pectorales y sus tríceps, mayormente. ",
+    "machineId": 6,
+    "image": "57.gif"
+  },
+  {
+    "id": 58,
+    "name": "Abdominales con alteración de piernas Tijera",
+    "description": "Instrucciones: 1. En primer lugar debes colocarte  en la máquina  como muestra la imagen, de tal manera que las piernas queden extendidas y los pies elevados, la espalda apoyada en el soporte, colocando  las manos  en el agarre y sin levantar la cabeza. 2. Levanta los pies a unos 45 grados y trae la rodilla hacia el tronco mientras la otra pierna permanece elevadas sin extender las piernas totalmente, se recomienda alternar las piernas en cada contracción.",
+    "machineId": 7,
+    "image": "58.gif"
+  },
+  {
+    "id": 59,
+    "name": "Abdominales alternando el cruce de piernas Tijera Inversa",
+    "description": "Instrucciones: 1. En primer lugar debes colocarte  en la máquina  como muestra la imagen, de tal manera que las piernas queden extendidas y los pies elevados, la espalda apoyada en el soporte, colocando  las manos  en el agarre y sin levantar la cabeza. 2. Levanta los pies a unos 45 grados y  comienza con una pierna alzandola hacia arriba y la otra hacia abajo  le de forma controlada de forma frontal, puede ser alternado también hacia los lados.",
+    "machineId": 7,
+    "image": "59.gif"
+  },
+  {
+    "id": 60,
+    "name": "Escalador",
+    "description": "Instrucciones: 1.Sujetate de los agarres antes de subirte a la máquina. Sube el pie izquierdo en el estribo  o soporte del pie. 2. Luego repite la misma acción  para el pie derecho en su respectivo soporte.3.  Ahora comienza a simular el subir  escalas  de forma alternada  sin levantar  los pies de los respectivos soportes. La espalda debe permanecer recta. Inicie con movimientos cortos y suaves.  Luego puede  ir aumentando el ritmo y velocidad de acción de acuerdo a sus capacidades físicas. Es importante  que durante  el movimiento evita llegar con los soportes hasta el final Tope. Ya que  puede repercutir en articulaciones y afectar el equilibrio del usuario. ",
+    "machineId": 3,
+    "image": "60.gif"
+  },
+  {
+    "id": 62,
+    "name": "Fondos en Banca",
+    "description": "Instrucciones: 1. Busca una superficie estable como una banca de concreto. 2. En el borde de esta superficie coloca tus brazos de tal manera  que queden a la anchura de tus brazos los pies deben ir estirados hacia adelante. 3. Comienza el ejercicio flexionando los codos, bajando un generando en tus brazos un ángulo de 90º, la espalda debe estar cerca al banco. Trata que los brazos estén cerca a tu cuerpo para que el ejercicio se concentre en los tríceps. ",
+    "machineId": null,
+    "image": "62.gif"
+  },
+  {
+    "id": 63,
+    "name": "Remo",
+    "description": "Instrucciones: 1. Siéntate en el asiento del equipo, luego ubica los pies en los estribos y sujeta los agarres superiores del equipo. 2. Mantén las rodillas flexionadas y hala los agarres del remo hasta el pecho luego  retorna a la posición inicial sin soltar o llegar al tope. Es importante que mantengas las espalda recta e inicia con movimientos cortos y suaves. Luego puede aumentar el ritmo o velocidad de la acción de acuerdo a sus capacidades físicas.",
+    "machineId": 5,
+    "image": "63.gif"
+  },
+  {
+    "id": 64,
+    "name": "Abdominales Elevadas (Alternativa) en Torre",
+    "description": "Instrucciones: 1. Sujetate del agarre frontal, apoya los codos y la espalda antes de realizar  cualquier acción. 2. Levanta las piernas en los soportes  de los pies. 3. Levanta  las piernas en tres secciones pueden ser cortas  o medias con una velocidad continua y regulada. 4. Lleva tus rodillas lo más cerca a su pecho manteniendo su espalda totalmente erguida y con la mirada al frente. No se recomienda realizar este ejercicio para personas con hernias  u operaciones en la zona central del cuerpo.",
+    "machineId": 1,
+    "image": "64.gif"
+  },
+  {
+    "id": 66,
+    "name": "Plancha con una pierna",
+    "description": "Instrucciones: 1. Busca un terreno plano en el parque. 2. Colócate en posición como si fueras a realizar una flexión de pecho. 3. Apoyado en tus brazos totalmente estirados, apretando el abdomen, con las palmas de tus manos abiertas, apretando tus glúteos y alineando la cabeza con tu columna; sube una pierna de tal manera que todo el peso quede en tus dos brazos y en un a pierna. 4. El ejercicio consiste en mantenerse en esta posición durante el tiempo que te sea posible o de acuerdo a la rutina que te proponemos.",
+    "machineId": null,
+    "image": "66.gif"
+  },
+  {
+    "id": 67,
+    "name": "Variación de Plancha con una pierna",
+    "description": "Instrucciones:1. Busca un terreno plano en el parque.2. Colócate en posición de tabla apoyando tu cuerpo sobre los antebrazos.3. Apoyado en tus antebrazos, apretando el abdomen, apretando tus glúteos y alineando la cabeza con tu columna; sube una pierna de tal manera que todo el peso quede en tus dos antebrazos y en un a pierna.4. El ejercicio consiste en mantenerse en esta posición durante el tiempo que te sea posible o de acuerdo a la rutina que te proponemos.",
+    "machineId": null,
+    "image": "67.gif"
+  },
+  {
+    "id": 68,
+    "name": "Plancha lateral",
+    "description": "Instrucciones:1. Busca un terreno plano en el parque.2. Colócate en posición de tabla apoyando tu cuerpo sobre los antebrazos.3. Apoyado en un solo  antebrazos, apretando el abdomen, apretando tus glúteos y alineando la cabeza con tu columna; ponte de medio lado  de tal manera que todo el peso quede en tu  antebrazo y en las dos piernas.4. El ejercicio consiste en mantenerse en esta posición durante el tiempo que te sea posible o de acuerdo a la rutina que te proponemos.",
+    "machineId": null,
+    "image": "68.gif"
+  },
+  {
+    "id": 69,
+    "name": "Plancha sobre tríceps y Biceps",
+    "description": "Instrucciones:1. Busca un terreno plano en el parque.2. Colócate en posición de tabla apoyando tu cuerpo sobre los antebrazos.3. Apoyado en tus antebrazos, apretando el abdomen, apretando tus glúteos y alineando la cabeza con tu columna; de esta manera todo el peso quedará en tus dos antebrazos y en tus piernas4. El ejercicio consiste en mantenerse en esta posición durante el tiempo que te sea posible o de acuerdo a la rutina que te proponemos.",
+    "machineId": null,
+    "image": "69.gif"
+  },
+  {
+    "id": 70,
+    "name": "Abdominales Inclinadas en Base",
+    "description": "Instrucciones:1.  Introduce las piernas dentro de los soportes de la máquina como lo muestra la imagen. Sujetate del agarre frontal, apoya los codos y la espalda antes de realizar  cualquier acción para estabilizar el cuerpo. 2. Para realizar el ejercicio, sitúa las manos  debajo en el pecho.3. Desde esta posición,  flexiona el tronco ,elevando  ligeramente los hombros y la cabeza del banco (simula acercar tus costillas hasta tu cadera).  No se recomienda realizar este ejercicio para personas con hernias  u operaciones en la zona central del cuerpo.",
+    "machineId": 7,
+    "image": "70.gif"
+  },
+  {
+    "id": 71,
+    "name": "Fondos en Torre",
+    "description": "Instrucciones: 1. Agarra los manilares de la máquina y levanta el cuerpo hasta que los brazos estén completamente extendidos, con el cuerpo recto y flexionando un poco las rodillas. 2. Dobla los codos y baja el cuerpo hasta que la parte superior de los brazos esté horizontal. 3. Usa el pecho, los hombros y los brazos para salir de la posición más baja y levantarte a la posición de inicio. Recuerda que con el tronco recto, actúa más el tríceps y con una inclinación del tronco hacia adelante adelante, se profundiza la participación en el pecho.",
+    "machineId": 1,
+    "image": "71.gif"
+  },
+  {
+    "id": 72,
+    "name": "Abdominales Crunch en Base",
+    "description": "Instrucciones: 1. Agarra los manilares de la máquina y levanta el cuerpo hasta que los brazos estén completamente extendidos, con el cuerpo recto y flexionando un poco las rodillas. 2. Dobla los codos y baja el cuerpo hasta que la parte superior de los brazos esté horizontal. 3. Usa el pecho, los hombros y los brazos para salir de la posición más baja y levantarte a la posición de inicio. Recuerda que con el tronco recto, actúa más el tríceps y con una inclinación del tronco hacia adelante adelante, se profundiza la participación en el pecho.",
+    "machineId": 22,
+    "image": "72.gif"
+  },
+  {
+    "id": 73,
+    "name": "Ascensor",
+    "description": "Instrucciones: 1. Siéntate y a garra los manilares de la máquina rodeando tus pulgares en ellos.2. Con ayuda de la fuerza de tus brazos, empuja hacia adelante los manillares de tal manera que tu cuerpo se eleve, gracias al funcionamiento de la máquina. Tus piernas deben estar estiradas hacia al frente.3. Vuelve a la posición inicial pero sin llegar al tope de inicio.",
+    "machineId": 8,
+    "image": "73.gif"
+  },
+  {
+    "id": 74,
+    "name": "Jinete",
+    "description": "Instrucciones: 1. Siéntate y a garra los manilares de la máquina rodeando tus pulgares en ellos y coloca tus pies en el soporte.2. Con ayuda de la fuerza de tus brazos, hala  hacia ti  los manillares de tal manera que tu cuerpo quede totalmente erguido, gracias al funcionamiento de la máquina. Tus piernas deben estar estiradas hacia al frente3. Vuelve a la posición inicial pero sin llegar al tope de inicio.",
+    "machineId": 9,
+    "image": "74.gif"
+  },
+  {
+    "id": 75,
+    "name": "Press de Hombro en Torre",
+    "description": "Instrucciones: 1. Lo primero que debes hacer es graduar el peso.2. Siéntate y agarra los manilares de la máquina rodeando tus pulgares en ellos, con tu espalda recta  y sacando el pecho. 3. Con ayuda de la fuerza de tus hombros, levanta  los manillares de tal manera que tus brazos queden  totalmente erguidos, vuelve a la posición inicial lentamente, formando un ángulo de 90º y repite el ejercicio.4. Vuelve a la posición inicial pero sin llegar al tope de inicio.",
+    "machineId": 1,
+    "image": "75.gif"
+  },
+  {
+    "id": 76,
+    "name": "Volante",
+    "description": "Instrucciones: 1. Párate al frente los volantes y con cada mano agarra los manilares de la máquina rodeando tus pulgares en ellos y mantén  espalda recta.2. Con ayuda de la fuerza de tus hombros y antebrazos, gira  los manillares hacia la derecha, en cada serie cambia el lado",
+    "machineId": 10,
+    "image": "76.gif"
+  },
+  {
+    "id": 77,
+    "name": "Balancín",
+    "description": "Instrucciones: 1. Párate en el soporte con los pies unidos, con cada mano agarra los manilares de la máquina rodeando tus pulgares en ellos y mantén  espalda recta.2. Con ayuda de tus caderas empuja de un lado a otro como un péndulo.",
+    "machineId": 11,
+    "image": "77.gif"
+  },
+  {
+    "id": 78,
+    "name": "Columpio",
+    "description": "Instrucciones:1. Siéntate y agarra el tubo de la máquina rodeando tus pulgares en él, coloca tus pies en los soporte; tu espalda debe estar perfectamente apoyada.2. Con ayuda de la fuerza de tus piernas, empuja  tu cuerpo hacia afuera. Tus piernas deben estar estiradas totalmente estiradas en este punto.3. Vuelve lentamente a la posición inicial pero sin llegar al tope de inicio.",
+    "machineId": 12,
+    "image": "78.gif"
+  },
+  {
+    "id": 79,
+    "name": "Biceps/Triceps/Hombro",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 13,
+    "image": "79.gif"
+  },
+  {
+    "id": 80,
+    "name": "Caminadora",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 14,
+    "image": "80.gif"
+  },
+  {
+    "id": 81,
+    "name": "Dominadas en Máquina",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 15,
+    "image": "81.gif"
+  },
+  {
+    "id": 82,
+    "name": "Eliptica",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 16,
+    "image": "82.gif"
+  },
+  {
+    "id": 83,
+    "name": "Triceps /Seated Dip",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 17,
+    "image": "83.gif"
+  },
+  {
+    "id": 84,
+    "name": "Brazos/Camber Curl",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 18,
+    "image": "84.gif"
+  },
+  {
+    "id": 85,
+    "name": "Pectoral/Biceps/ Chest Press",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 19,
+    "image": "85.gif"
+  },
+  {
+    "id": 86,
+    "name": "Hombro/Multifuerza Cable",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 20,
+    "image": "86.gif"
+  },
+  {
+    "id": 87,
+    "name": "Sentadillas/TRX",
+    "description": "Gimnasio Incluyente: Actividad recreativa de acondicionamiento y mantenimiento  físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: Actividad física recreativa, Laboratorio de creatividad, Nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y Gimnasia adaptada.Esta actividad se realiza en los siguientes escenarios: Unidad Deportiva el Salitre UDS – Coliseo (Cll 63 No. 68 – 45, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m.).Parque Cayetano Cañizares. (Carrera 80 No. 40 -55 Sur, horario de atención: martes a viernes 08:00 a.m. 12:00 p.m. – 01:00 p.m.a 05:00 p.m. y los sábados de 08:00 a.m. a 12:00 p.m  ) Fuente: https://guiatramitesyservicios.bogota.gov.co/tramite-servicio/programa-recreacion-incluyente/",
+    "machineId": 21,
+    "image": "87.gif"
+  },
+  {
+    "id": 88,
+    "name": "Rotación de Hombros",
+    "description": "Instrucciones:1. Ponte de pie con la espalda recta.2. Gira a hacia atrás  o adelante  tus hombros  lentamente y de manera controlada.",
+    "machineId": null,
+    "image": "88.gif"
+  },
+  {
+    "id": 89,
+    "name": "Calentamiento manos",
+    "description": "Instrucciones:1. Ponte de pie con la espalda recta.2.  Levanta una de tus piernas hacia atrás y tócala con tu mano. Alterna con la otra pierna.",
+    "machineId": null,
+    "image": "89.gif"
+  },
+  {
+    "id": 90,
+    "name": "Calentamiento Piernas",
+    "description": "Instrucciones:1. Ponte de pie con la espalda recta.2.  Levanta una de tus piernas hacia atrás y tócala con tu mano. Alterna con la otra pierna.3. Haz este ejercicio de acuerdo a tu capacidad física y clinica.",
+    "machineId": null,
+    "image": "90.gif"
+  },
+  {
+    "id": 91,
+    "name": "Rotación de Talón",
+    "description": "Instrucciones:1. Ponte de pie con la espalda recta.2. Levanta tu pie, flexionando ligeramente tus rodillas, gira  hacia al lado izquierdo  tus pies  lentamente y en forma circular. 3. Haz el ejercicio con ambos pies.",
+    "machineId": null,
+    "image": "91.gif"
+  },
+  {
+    "id": 92,
+    "name": "Rotación de Cabeza",
+    "description": "Instrucciones: 1. Ponte de pie con la espalda recta. 2. Gira  levemente de lado a lado tu cabeza, luego hazlo de arriba abajo.",
+    "machineId": null,
+    "image": "92.gif"
+  },
+  {
+    "id": 93,
+    "name": "Estiramiento de Piernas",
+    "description": "Instrucciones: 1. Ponte de pie con la espalda recta. 2. Levanta el pie  izquierdo hacia atrás y agárralo con tu mano. Tu mano derecha se estirara hacia la derecha con el objetivo de ayudar a mantener el equilibro; haz un poco de tensión. Mantén esta posición por el tiempo determinado.",
+    "machineId": null,
+    "image": "93.gif"
+  },
+  {
+    "id": 94,
+    "name": "Estiramiento de Hombros",
+    "description": "Instrucciones:1. Ponte de pie con la espalda recta.2. Cruza  tu brazo izquierdo totalmente estirado hacia al frente; con tu mano derecha toma tu codo izquierdo, haz un poco de tensión. Mantén esta posición por el tiempo determinado.",
+    "machineId": null,
+    "image": "94.gif"
+  },
+  {
+    "id": 95,
+    "name": "Estiramiento de Biceps",
+    "description": "Instrucciones:1. Ponte de pie con la espalda recta.2. Coloca tu brazo izquierdo  totalmente estirado hacia al frente, la palma debe ir hacia abajo; con tu mano derecha toma tu mano izquierda. Y haz un poco de tensión. Mantén esta posición por el tiempo determinado.",
+    "machineId": null,
+    "image": "95.gif"
+  }
+]

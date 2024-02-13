@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "Multifuncional/Torre de Pecho Plano",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Eliptica/Sky",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Escalador",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bicicleta Estatica",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Remo",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Flexion de Pecho en Base",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Abdomen Cronch Inclinado",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Asensor",
+    "description": "",
+    "routineLevelId": 2,
+    "image": "8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jinete",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Volante",
+    "description": "",
+    "routineLevelId": 2,
+    "image": "10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Balancín",
+    "description": "",
+    "routineLevelId": 2,
+    "image": "11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Columpio",
+    "description": "",
+    "routineLevelId": 2,
+    "image": "12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Brazos Pedal",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Caminadora",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Maquina para Dominadas",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Eliptica",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Seated Dip",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Camber Curl",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Chest Press",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Multfuerza Cable",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "TRX",
+    "description": "",
+    "routineLevelId": 3,
+    "image": "21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Abdomen Cronch Plano",
+    "description": "",
+    "routineLevelId": 1,
+    "image": "22.jpg"
+  }
+]

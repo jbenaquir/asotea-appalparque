@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "name": "Exercise 0",
+    "image": "ExerciseIdSample.gif",
+    "image_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+    "label": "Vice President"
+  },
+  {
+    "id": 1,
+    "name": "Flexiones suaves",
+    "image_url": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+    "label": "Vice Chairman"
+  }
+]

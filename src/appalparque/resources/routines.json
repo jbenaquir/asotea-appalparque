@@ -1,0 +1,1190 @@
+[
+  {
+    "id": 1,
+    "name": "Pierna",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 90,
+        "quantityType": "repeticiones",
+        "quantity": 14,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 1,
+        "quantityType": "repeticiones",
+        "quantity": 30,
+        "series": 5,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 3,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 3,
+        "secondsRest": 45
+      },
+      {
+        "exerciseId": 5,
+        "quantityType": "repeticiones",
+        "quantity": 14,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 11,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 60,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 2,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 48,
+        "quantityType": "segundos",
+        "quantity": 900,
+        "series": 1,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 91,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pierna",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 48,
+        "quantityType": "segundos",
+        "quantity": 900,
+        "series": 1,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 4,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 12,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 10,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 53,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 54,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 60,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 2,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 90,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gluteos/Cola",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 78,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 4,
+        "secondsRest": 15
+      },
+      {
+        "exerciseId": 14,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 9,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 19,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 21,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 22,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 29,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 35,
+        "quantityType": "segundos",
+        "quantity": 900,
+        "series": 1,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gluteos/Cola",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 90,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 7,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 36,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 20,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 26,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 24,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 16,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 53,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 93,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 4,
+        "secondsRest": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Abdomen/ ABS",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 77,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 2,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 42,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 2,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 40,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 6,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 23,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 58,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 59,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 68,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 72,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 35,
+        "quantityType": "segundos",
+        "quantity": 900,
+        "series": 1,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 41,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 40,
+        "secondsRest": 20
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Abdomen/ ABS",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 41,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 23,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 39,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 46,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 59,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 66,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 67,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 68,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 72,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 70,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 40,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 30
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pectorales /Pecho",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 40,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 4,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 47,
+        "quantityType": "repeticiones",
+        "quantity": 10,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 51,
+        "quantityType": "repeticiones",
+        "quantity": 8,
+        "series": 3,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 66,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 3,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 73,
+        "quantityType": "repeticiones",
+        "quantity": 20,
+        "series": 4,
+        "secondsRest": 60
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pectorales /Pecho",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 4,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 47,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 50,
+        "quantityType": "repeticiones",
+        "quantity": 10,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 51,
+        "quantityType": "repeticiones",
+        "quantity": 10,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 57,
+        "quantityType": "repeticiones",
+        "quantity": 8,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 71,
+        "quantityType": "repeticiones",
+        "quantity": 8,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 67,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 3,
+        "secondsRest": 60
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Biceps",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 89,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 37,
+        "quantityType": "repeticiones",
+        "quantity": 20,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 95,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 44,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 2,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 49,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 2,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 69,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 3,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 95,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Biceps",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 37,
+        "quantityType": "repeticiones",
+        "quantity": 20,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 95,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 49,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 2,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 74,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 4,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 69,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 4,
+        "secondsRest": 45
+      },
+      {
+        "exerciseId": 43,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Triceps",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 44,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 15
+      },
+      {
+        "exerciseId": 45,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 15
+      },
+      {
+        "exerciseId": 49,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 2,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 57,
+        "quantityType": "repeticiones",
+        "quantity": 8,
+        "series": 3,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 62,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 3,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 69,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 43,
+        "quantityType": "segundos",
+        "quantity": 45,
+        "series": 3,
+        "secondsRest": 15
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Triceps",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 43,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 49,
+        "quantityType": "segundos",
+        "quantity": 500,
+        "series": 1,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 57,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 62,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 71,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 69,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 3,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 43,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Hombro",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 37,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 38,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 3,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 49,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 1,
+        "secondsRest": 120
+      },
+      {
+        "exerciseId": 55,
+        "quantityType": "repeticiones",
+        "quantity": 10,
+        "series": 3,
+        "secondsRest": 45
+      },
+      {
+        "exerciseId": 73,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 3,
+        "secondsRest": 45
+      },
+      {
+        "exerciseId": 74,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 3,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 76,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 3,
+        "secondsRest": 20
+      },
+      {
+        "exerciseId": 94,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 4,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 38,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 2,
+        "secondsRest": 10
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Hombro",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 88,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 2,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 37,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 2,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 88,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 2,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 94,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 2,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 49,
+        "quantityType": "segundos",
+        "quantity": 300,
+        "series": 1,
+        "secondsRest": 120
+      },
+      {
+        "exerciseId": 55,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 75,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 50,
+        "quantityType": "repeticiones",
+        "quantity": 12,
+        "series": 3,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 94,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 2,
+        "secondsRest": 10
+      },
+      {
+        "exerciseId": 88,
+        "quantityType": "segundos",
+        "quantity": 30,
+        "series": 2,
+        "secondsRest": 10
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Espalda",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 74,
+        "quantityType": "repeticiones",
+        "quantity": 20,
+        "series": 3,
+        "secondsRest": 45
+      },
+      {
+        "exerciseId": 73,
+        "quantityType": "repeticiones",
+        "quantity": 25,
+        "series": 3,
+        "secondsRest": 45
+      },
+      {
+        "exerciseId": 63,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 3,
+        "secondsRest": 45
+      },
+      {
+        "exerciseId": 50,
+        "quantityType": "repeticiones",
+        "quantity": 5,
+        "series": 2,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 51,
+        "quantityType": "repeticiones",
+        "quantity": 5,
+        "series": 2,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 4,
+        "quantityType": "repeticiones",
+        "quantity": 10,
+        "series": 3,
+        "secondsRest": 60
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Espalda",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 74,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 63,
+        "quantityType": "repeticiones",
+        "quantity": 20,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 56,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 50,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 51,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 4,
+        "quantityType": "repeticiones",
+        "quantity": 14,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 68,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 4,
+        "secondsRest": 60
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Trapecios",
+    "description": "",
+    "routineLevelId": 1,
+    "routineExercises": [
+      {
+        "exerciseId": 63,
+        "quantityType": "repeticiones",
+        "quantity": 10,
+        "series": 3,
+        "secondsRest": 30
+      },
+      {
+        "exerciseId": 56,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 3,
+        "secondsRest": 30
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Trapecios",
+    "description": "",
+    "routineLevelId": 3,
+    "routineExercises": [
+      {
+        "exerciseId": 63,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 56,
+        "quantityType": "repeticiones",
+        "quantity": 15,
+        "series": 4,
+        "secondsRest": 60
+      },
+      {
+        "exerciseId": 68,
+        "quantityType": "segundos",
+        "quantity": 60,
+        "series": 4,
+        "secondsRest": 60
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Acondicionamiento Gimnasio Incluyente",
+    "description": "Gimnasios incluyentes Actividad recreativa de acondicionamiento y mantenimiento físico, fundamentada en la implementación de diversas técnicas y métodos de la actividad física y recreación; realizada mediante secuencias de movimientos armónicos, acompañados de diversos ritmos musicales; orientada por el equipo humano del gimnasio, la cual permite la estructuración de rutinas personales para fomentar hábitos de vida saludable, prevenir la progresión de  lesiones y deficiencias  por causa del sedentarismo o de la misma condición de discapacidad y fortalecer relaciones sociales adecuadas. La programación se estructura a través de franjas temáticas que se rotan semanalmente para garantizar el desarrollo de las diversas habilidades, capacidades y competencias tanto individuales como colectivas. Las franjas temáticas propuestas son: actividad física recreativa, laboratorio de creatividad, nuevas tendencias recreativas, Rumbeando ando, Juegos tradicionales y gimnasia adaptada. Ubicación y horarios Gimnasio Recreativo Incluyente de la Unidad Deportiva el Salitre: Calle 63 # 68-45. Cayetano Cañizares, al interior del Coliseo, Localidad Kennedy. Horarios: Martes a viernes de 7:20 a.m. a 4:40 p.m. y sábados de 9:00 a.m. a 4:00 p.m. (es necesario la concertación previa con los profesionales de los Gimnasios para la utilización del espacio) Cómo acceder Acercarse a  cada uno de los gimnasios para conocer el espacio Concertar con los monitores de acuerdo a la disponibilidad. Tener en cuenta que las familias, cuidadores y usuarios con discapacidad pueden hacer uso de los gimnasios Fuente: https:\/\/www.idrd.gov.co/recreacion/incluyente/quienes-somos",
+    "routineLevelId": 2,
+    "routineExercises": [
+      {
+        "exerciseId": 79,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 80,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 81,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 82,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 83,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 84,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 85,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 86,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      },
+      {
+        "exerciseId": 87,
+        "quantityType": "segundos",
+        "quantity": 0,
+        "series": 0,
+        "secondsRest": 0
+      }
+    ]
+  }
+]
